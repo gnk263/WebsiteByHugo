@@ -5,3 +5,8 @@ theme = "hugo-theme-learn"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = "プライバシーポリシー"
+url = "/poricy"
+weight = 100
