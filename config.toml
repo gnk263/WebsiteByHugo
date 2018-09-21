@@ -10,3 +10,8 @@ home = [ "HTML", "RSS", "JSON"]
 name = "プライバシーポリシー"
 url = "/poricy"
 weight = 100
+
+[[menu.shortcuts]]
+name = "問い合わせ"
+url = "/contact"
+weight = 110
