@@ -8,4 +8,18 @@ pre = ""
 
 # 明石の改修帳
 
-text
+「艦隊これくしょん　～艦これ～」の【明石の工廠】の情報に特化したアプリです。
+
+装備の改修情報を見ることができます。
+
+### iOS
+
+{{<figure src="/images/akashi/ios_01.png" width="400px">}}
+
+### Android
+
+{{<figure src="/images/akashi/android_01.png" width="400px">}}
+
+### ダウンロード
+
+{{<download-banner-akashi>}}
