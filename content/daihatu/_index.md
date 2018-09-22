@@ -10,8 +10,14 @@ chapter = true
 「艦隊これくしょん　～艦これ～」の遠征ボーナスを計算できるアプリです。
 大発動艇、特大発動艇などの遠征ボーナスが簡単に分かります。
 
-|iOS|Android|
-|---|---|
-|{{<figure src="/images/daihatu/ios_01.png" width="400px">}}|{{<figure src="/images/daihatu/android_01.png" width="400px">}}|
+### iOS
+
+{{<figure src="/images/daihatu/ios_01.png" width="400px">}}
+
+### Android
+
+{{<figure src="/images/daihatu/android_01.png" width="400px">}}
+
+### ダウンロード
 
 {{<download-banner-daihatu>}}
