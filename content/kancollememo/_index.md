@@ -1,13 +1,23 @@
 +++
-title = "Kancollememo"
+title = "艦これメモ帳"
 date = 2018-09-22T22:54:01+09:00
-weight = 5
+weight = 30
 chapter = true
-pre = "<b>X. </b>"
+pre = ""
 +++
 
-### Chapter X
+# 艦これメモ帳
 
-# Some Chapter title
+「艦隊これくしょん　～艦これ～」の建造レシピや開発レシピのメモアプリです。
 
-Lorem Ipsum.
+### iOS
+
+{{<figure src="/images/kancollememo/ios_01.png" width="400px">}}
+
+### Android
+
+{{<figure src="/images/kancollememo/android_01.png" width="400px">}}
+
+### ダウンロード
+
+{{<download-banner-kancollememo>}}
