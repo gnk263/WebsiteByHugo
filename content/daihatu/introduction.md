@@ -23,9 +23,13 @@ weight: 10
 
 ### 画面紹介
 
-|iOS|Android|
-|---|---|
-|{{<figure src="/images/daihatu/ios_01.png" width="400px">}}|{{<figure src="/images/daihatu/android_01.png" width="400px">}}|
+#### iOS
+
+{{<figure src="/images/daihatu/ios_01.png" width="400px">}}
+
+#### Android
+
+{{<figure src="/images/daihatu/android_01.png" width="400px">}}
 
 ### ダウンロード
 
