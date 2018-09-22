@@ -12,6 +12,6 @@ chapter = true
 
 |iOS|Android|
 |---|---|
-|{{<figure src="/images/daihatu/ios_01.png" width="400px" caption="メイン画面">}}|{{<figure src="/images/daihatu/android_01.png" width="400px" caption="メイン画面">}}|
+|{{<figure src="/images/daihatu/ios_01.png" width="400px">}}|{{<figure src="/images/daihatu/android_01.png" width="400px">}}|
 
 {{<download-banner-daihatu>}}
