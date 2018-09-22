@@ -1,13 +1,25 @@
 +++
-title = "Ensei"
+title = "遠征帳"
 date = 2018-09-22T21:07:05+09:00
-weight = 5
+weight = 40
 chapter = true
-pre = "<b>X. </b>"
+pre = ""
 +++
 
-### Chapter X
+# 遠征帳
 
-# Some Chapter title
+「艦隊これくしょん　～艦これ～」の遠征を管理できるアプリです。
 
-Lorem Ipsum.
+遠征の一覧、お気に入り遠征の登録、遠征のタイマー＆通知ができます。
+
+### iOS
+
+{{<figure src="/images/ensei/ios_01.png" width="400px">}}
+
+### Android
+
+{{<figure src="/images/ensei/android_01.png" width="400px">}}
+
+### ダウンロード
+
+{{<download-banner-ensei>}}
