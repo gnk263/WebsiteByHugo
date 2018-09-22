@@ -1,6 +1,7 @@
 ---
-title: "Download"
+title: "ダウンロード"
 date: 2018-09-22T21:07:41+09:00
-draft: true
+weight: 20
 ---
 
+{{<download-banner-ensei>}}
