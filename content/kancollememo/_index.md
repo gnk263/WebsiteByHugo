@@ -10,6 +10,8 @@ pre = ""
 
 「艦隊これくしょん　～艦これ～」の建造レシピや開発レシピのメモアプリです。
 
+{{<figure src="/images/kancollememo/appicon.png">}}
+
 ### iOS
 
 {{<figure src="/images/kancollememo/ios_01.png" width="400px">}}
