@@ -1,5 +1,5 @@
 baseURL = "https://gnk263.net/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "My New Hugo Site"
 theme = "hugo-theme-learn"
 
