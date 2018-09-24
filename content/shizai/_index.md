@@ -12,6 +12,8 @@ pre = ""
 
 日々の資材の増減が簡単に分かります。
 
+{{<figure src="/images/shizai/appicon.png">}}
+
 ### iOS
 
 {{<figure src="/images/shizai/ios_01.png" width="400px">}}
