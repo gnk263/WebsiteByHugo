@@ -3,6 +3,9 @@ languageCode = "ja"
 title = "艦これアプリ工廠"
 theme = "hugo-theme-learn"
 
+[params]
+author = "gnk263"
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
