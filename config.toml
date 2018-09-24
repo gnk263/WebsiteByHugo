@@ -6,6 +6,7 @@ theme = "hugo-theme-learn"
 [params]
 author = "gnk263"
 description = "艦これに関するスマートフォン（iOS/Android）向けのアプリケーションを配布しています。明石の工廠向けの改修アプリ、資源・資材を管理しグラフ表示するアプリなどがあります。"
+disableSearch = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
