@@ -12,6 +12,8 @@ pre = ""
 
 遠征の一覧、お気に入り遠征の登録、遠征のタイマー＆通知ができます。
 
+{{<figure src="/images/ensei/appicon.png">}}
+
 ### iOS
 
 {{<figure src="/images/ensei/ios_01.png" width="400px">}}
