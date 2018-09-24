@@ -12,6 +12,8 @@ pre = ""
 
 装備の改修情報を見ることができます。
 
+{{<figure src="/images/akashi/appicon.png">}}
+
 ### iOS
 
 {{<figure src="/images/akashi/ios_01.png" width="400px">}}
