@@ -19,6 +19,21 @@ date: 2018-09-22T00:39:25+09:00
 
 * [Googleプライバシーポリシー](https://www.google.com/intl/ja/policies/privacy)
 
+#### 対象アプリ
+
+対象アプリは、下記となります。
+
+* 明石の改修帳
+* 艦これ資材帳
+* 艦これメモ帳
+* 遠征帳
+
+#### 対象外アプリ
+
+下記のアプリは、Google Analyticsによる情報収集を行っていません。
+
+* 大発計算機
+
 ### Webサイト
 
 本Webサイトでは改善活動のためGoogle Analyticsを利用しています。
