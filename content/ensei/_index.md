@@ -1,7 +1,7 @@
 +++
 title = "遠征帳"
 date = 2018-09-22T21:07:05+09:00
-weight = 40
+weight = 50
 chapter = true
 pre = ""
 +++
