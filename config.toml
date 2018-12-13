@@ -20,3 +20,8 @@ weight = 100
 name = "問い合わせ"
 url = "/contact"
 weight = 110
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-twitter'></i> Twitter"
+url = "https://twitter.com/gnk263"
+weight = 200
