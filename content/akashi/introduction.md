@@ -63,6 +63,7 @@ weight: 10
 {{<figure src="/images/akashi/ios_03.png" width="400px">}}
 {{<figure src="/images/akashi/ios_04.png" width="400px">}}
 {{<figure src="/images/akashi/ios_05.png" width="400px">}}
+{{<figure src="/images/akashi/ios_06.png" width="400px">}}
 
 #### Android
 
@@ -71,6 +72,7 @@ weight: 10
 {{<figure src="/images/akashi/android_03.png" width="400px">}}
 {{<figure src="/images/akashi/android_04.png" width="400px">}}
 {{<figure src="/images/akashi/android_05.png" width="400px">}}
+{{<figure src="/images/akashi/android_06.png" width="400px">}}
 
 ### ダウンロード
 
