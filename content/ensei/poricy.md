@@ -1,12 +1,12 @@
 ---
 title: "プライバシーポリシー"
-date: 2018-10-13T17:53:50+09:00
+date: 2019-08-05T07:18:50+09:00
 weight: 40
 ---
 
 #### 概要
 
-アプリの改善活動で参考にするため、下記のデータをGoogle Analyticsで収集しています。
+アプリの改善活動で参考にするため、下記のデータをFirebase Analyticsで収集しています。
 
 この設定はアプリ内でいつでも変更できます。
 
@@ -29,8 +29,7 @@ weight: 40
 
 #### データの収集方法
 
-* Google Analytics
-  * [Googleプライバシーポリシー](https://www.google.com/intl/ja/policies/privacy)
+* [Firebase Analytics](https://firebase.google.com/products/analytics/?hl=ja)
 
 #### データの利用用途
 
@@ -39,8 +38,3 @@ weight: 40
 #### データ収集の無効
 
 * アプリ内の設定変更
-
-#### データの保持期間
-
-* 26ヶ月
-  * Google Analyticsの設定
